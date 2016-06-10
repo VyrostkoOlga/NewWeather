@@ -1,0 +1,10 @@
+<time from="2014-10-13T15:00:00" to="2014-10-13T18:00:00">
+    <symbol number="803" name="broken clouds" var="04n"/>
+    <precipitation/>
+    <windDirection deg="275.004" code="W" name="West"/>
+    <windSpeed mps="2.3" name="Light breeze"/>
+    <temperature unit="celsius" value="1" min="1" max="4.877"/>
+    <pressure unit="hPa" value="985.9"/>
+    <humidity value="93" unit="%"/>
+    <clouds value="broken clouds" all="80" unit="%"/>
+</time>
